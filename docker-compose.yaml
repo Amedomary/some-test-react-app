@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  test-build:
+    build: .
+    container_name: testbuild
+    restart: always
+    ports:
+      - "3000:3000"

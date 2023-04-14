@@ -1,0 +1,14 @@
+.main {
+  color: #333333;
+  padding: 32px;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+@media (max-width: 767px) {
+  .main {
+    padding: 16px;
+  }
+}

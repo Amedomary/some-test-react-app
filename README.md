@@ -1,2 +1,5 @@
-# some-test-react-app
-Some test react app
+## Запуск приложения в Docker
+
+```bash
+docker-compose up --force-recreate --build
+```
