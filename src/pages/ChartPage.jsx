@@ -27,7 +27,7 @@ const ChartPage = () => {
         year: '%b',
       },
       title: {
-        text: 'Даты',
+        text: 'Время, ч:мин',
       },
     },
     tooltip: {
